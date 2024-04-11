@@ -18,6 +18,7 @@ const Navbar = () => {
             height={27}
             alt="logo"
           />
+          
 
           <p className="nav-logo">
           Data<span className='text-primary'>Harvester</span>

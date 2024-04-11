@@ -1,3 +1,12 @@
+// colors: {
+//   'text': '#07060f',
+//   'background': '#f4f4fa',
+//   'primary': '#482fdb',
+//   'secondary': '#8774f2',
+//   'accent': '#664dfb',
+//  },
+ 
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -9,7 +18,7 @@ module.exports = {
     extend: {
       colors: {
         primary: {
-          DEFAULT: "#E43030",
+          DEFAULT: "#482FDB",
           "orange": "#D48D3B",
           "green": "#3E9242"
         },

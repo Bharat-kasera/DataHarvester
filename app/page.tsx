@@ -23,7 +23,7 @@ const Home = async () => {
             </p>
 
             <h1 className="head-text">
-              Unleash the Power of
+            Elevate Your Analysis with
               <span className="text-primary"> DataHarvester</span>
             </h1>
 
